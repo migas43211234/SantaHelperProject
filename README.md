@@ -1,3 +1,2 @@
 # SantaHelperProject
-
-Project desenvolvido em c# no âmbito do programa Upskill.
+Projeto em C# desenvolvido no âmbito do programa Upskill
